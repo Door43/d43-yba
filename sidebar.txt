@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yba:home|Door43 (yba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yba|d43-yba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yba/archive/master.zip|d43-yba.zip]]
+
+**Recent Changes**
+{{changes>ns = yba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yba|Ethnologue data]]
+
